@@ -1,0 +1,86 @@
+
+Attrition and Tenure:
+Overtime is a critical factor. Employees working overtime have a significantly higher attrition rate. Consider monitoring workload distribution.
+
+Early attrition is prominent within the first 3 years of employment. Better onboarding, mentorship, and career paths are essential.
+
+Job satisfaction & involvement are strong predictors of retention. Low values in these areas indicate a need for engagement surveys and manager training.
+
+No significant link was found between education level and attrition—suggesting all levels of educated employees are equally likely to leave.
+
+Some gender & marital status-based attrition bias was noted. HR should ensure unbiased retention strategies.
+
+Wellness indicators such as WorkBalanceScore and SatisfactionIndex are directly tied to attrition, validating the need for wellness programs.
+
+The attrition rate is highest among employees with lower tenure, especially those in the 0–3 years and 3–5 years tenure buckets. This suggests that employees with shorter tenure are more likely to leave the company, indicating a possible need for better onboarding or engagement strategies during the initial years.
+
+Impact of Job Involvement on Attrition:
+
+Job involvement is significantly correlated with attrition. Employees with higher job involvement tend to stay longer. HR should focus on fostering a sense of involvement and ownership in employees' roles to reduce turnover.
+
+Overtime and Attrition:
+
+A moderate positive correlation between overtime and attrition was observed. Employees who work overtime tend to have a slightly higher likelihood of leaving. HR may need to evaluate workload management and overtime policies to maintain work-life balance.
+
+Performance Rating and Attrition:
+
+Employees with lower performance ratings (especially those with a performance rating of 0.0) are more likely to leave. HR should ensure that underperforming employees receive proper feedback and development opportunities to improve performance and reduce voluntary attrition.
+
+Potential Biases in Gender and Job Role:
+
+No significant gender-based attrition difference was found. However, certain job roles (e.g., Laboratory Technicians and Sales Reps) show higher attrition rates. This could indicate potential role-specific issues, such as job satisfaction or career growth opportunities, that HR should explore.
+
+Chi-Square Test Results:
+
+A significant relationship was found between job involvement and attrition, implying that employees who feel more involved in their work are less likely to leave. This underscores the importance of engagement and employee development strategies to retain talent.
+
+Recommendations:
+Focus on Employee Engagement: Implement programs to increase job involvement, especially for employees in the first few years of employment.
+
+Monitor Overtime: Review policies surrounding overtime, as excessive hours may lead to burnout and increased attrition.
+
+Career Development and Performance Management: Ensure consistent performance reviews, feedback, and career development opportunities, especially for underperforming employees.
+
+Role-Specific Retention Strategies: Identify reasons for higher attrition in specific job roles and address the underlying issues.
+
+
+Type: Bar Chart
+
+Purpose: To visualize how the attrition rate varies across different tenure buckets. This can highlight the impact of employee tenure on attrition, helping HR focus retention efforts on employees with shorter tenures.
+
+Attrition Rate by Job Involvement:
+
+Type: Bar Chart or Box Plot
+
+Purpose: To explore the correlation between job involvement and attrition. A higher job involvement generally leads to lower attrition, so HR can use this data to focus on improving employee engagement in various roles.
+
+Attrition Rate by OverTime:
+
+Type: Bar Chart
+
+Purpose: This visualization helps assess whether working overtime has any significant relationship with attrition, indicating whether overwork might contribute to employee dissatisfaction.
+
+Performance Rating vs. Attrition:
+
+Type: Heatmap or Bar Chart
+
+Purpose: To show how performance ratings relate to attrition. Employees with lower performance ratings might have higher attrition rates, signaling the need for targeted performance management strategies.
+
+Attrition Rate by Job Role:
+
+Type: Bar Chart
+
+Purpose: To identify if certain job roles have higher attrition rates, helping HR identify roles that may need more attention in terms of job satisfaction, career development, or work-life balance.
+
+Attrition by Gender (if applicable):
+
+Type: Bar Chart or Pie Chart
+
+Purpose: To check if there’s a gender-based difference in attrition. This can indicate any potential biases or issues affecting specific gender groups, helping HR develop fairer policies and better support systems.
+
+Correlation Matrix:
+
+Type: Heatmap
+
+Purpose: To visually explore the correlation between different variables (like overtime, performance rating, age, salary, etc.) and attrition. This provides an overview of which features have the strongest relationship with employee attrition.
+
